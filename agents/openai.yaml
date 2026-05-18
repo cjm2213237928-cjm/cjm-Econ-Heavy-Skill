@@ -1,0 +1,4 @@
+interface:
+  display_name: "cjm-Econ-Heavy-Skill"
+  short_description: "Heavy empirical review for econ papers"
+  default_prompt: "Use $cjm-Econ-Heavy-Skill to compare defensible empirical paths for my economics paper."
